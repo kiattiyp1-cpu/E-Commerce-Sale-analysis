@@ -1,0 +1,5 @@
+{
+  "name": "E-commerce Sales Dashboard",
+  "description": "Interactive sales analytics dashboard with file upload, filtering, and multi-view insights.",
+  "requestFramePermissions": []
+}
